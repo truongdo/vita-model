@@ -1,0 +1,9 @@
+models
+models.tar.gz
+data/segment/vi-segment.test.crfsuite
+data/segment/vi-segment.train.crfsuite
+data/chunk/vi-chunk.test.crfsuite
+data/chunk/vi-chunk.train.crfsuite
+data/pos/vi-pos.test.crfsuite
+data/pos/vi-pos.train.crfsuite
+*/*.pyc
