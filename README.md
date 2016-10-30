@@ -2,14 +2,13 @@
 This is the model that is used in [Vita](https://github.com/truongdq/vita) application.
 The models are trained using [CRFSuite](http://www.chokkan.org/software/crfsuite/).
 
-If you want to download the trained model, please download from [here](https://www.dropbox.com/s/canq94xbmjoijbt/vita_model.zip?dl=0).
+If you want to download the trained model, it is available [here](https://dl.dropboxusercontent.com/u/30873072/vita_model.zip).
 The model is quite large and GitHub does not allow me to upload large files.
 
-We have 2 models:
+2 models are available:
 
 1. PoS (Part of speech tagging): models/word_pos.model
 2. Word segmentation: models/word_segment.model
-3. The Vietnamese dictionary models/vn.dict
 
 ## Data ##
 
