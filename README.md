@@ -2,7 +2,7 @@
 This is the model that is used in [Vita](https://github.com/truongdq/vita) application.
 The models are trained using [CRFSuite](http://www.chokkan.org/software/crfsuite/).
 
-If you want to download the trained model, it is available [here](https://dl.dropboxusercontent.com/u/30873072/vita_model.zip).
+If you want to download the trained model, please contact us at truongdo[at]vais.vn.
 The model is quite large and GitHub does not allow me to upload large files.
 
 2 models are available:
